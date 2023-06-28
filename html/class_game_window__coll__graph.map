@@ -1,0 +1,15 @@
+<map id="GameWindow" name="GameWindow">
+<area shape="rect" id="Node000001" title="This is GameWindow class Describes Game window." alt="" coords="108,172,210,199"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,81,78,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,115,144,169,140,174,68,119"/>
+<area shape="rect" id="Node000003" href="$class_grid.html" title="This is Grid class Describes sudoku matrix." alt="" coords="102,81,147,108"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,123,128,147,145,170,141,173,123,149,119,123"/>
+<area shape="rect" id="Node000004" href="$class_area.html" title="This is Area class Describes auxiliary class that is inherited from QLabel." alt="" coords="171,81,219,108"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="187,123,166,172,162,170,182,121"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="164,5,226,32"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="198,47,198,81,192,81,192,47"/>
+<area shape="rect" id="Node000006" href="$class_about_window.html" title="This is AboutWindow class Describes pop&#45;up window." alt="" coords="243,81,344,108"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="279,122,251,150,228,164,204,174,202,169,226,159,248,146,276,118"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="260,5,327,32"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="296,47,296,81,291,81,291,47"/>
+</map>
