@@ -1,6 +1,6 @@
 SudokuGame
 ==========
-The application was done in C++. Qt framework was used to make GUI.
+C++ was used to make this application. Qt framework was used to make GUI.
 
 ### [Documentation for code](https://stanleystanmarsh.github.io/SudokuGame/)
 
