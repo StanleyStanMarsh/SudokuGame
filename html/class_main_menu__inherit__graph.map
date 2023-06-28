@@ -1,5 +1,0 @@
-<map id="MainMenu" name="MainMenu">
-<area shape="rect" id="Node000001" title="The MainMenu class Describes Main menu of the game." alt="" coords="5,80,87,107"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="10,5,82,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="49,47,49,80,43,80,43,47"/>
-</map>
