@@ -48,4 +48,4 @@ When the `solveGenerated()` slot is called, the values of the Grid::matrix matri
 
 Also, the `closeEvent()` event has been redefined in the `GameWindow` class. When the game window is closed, this event is called, which opens the main menu window.
  	
-`Additional` methods `setQLEStyle()`, `setQLEStyleEditable()`, `setQLEStyleMistake()`, `setButtonStyle()` and `CellEdit()` are needed to change the appearance of buttons and text fields.
+Additional methods `setQLEStyle()`, `setQLEStyleEditable()`, `setQLEStyleMistake()`, `setButtonStyle()` and `CellEdit()` are needed to change the appearance of buttons and text fields.
