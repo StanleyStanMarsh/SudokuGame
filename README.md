@@ -9,7 +9,7 @@ Sudoku puzzle game with numbers was created in the course of the work. The backe
 The application consists of [main menu](https://github.com/StanleyStanMarsh/SudokuGame/blob/main/app/windows/widget.h) and [game window](https://github.com/StanleyStanMarsh/SudokuGame/blob/main/app/windows/gamewindow.h).
 
 ____
-## Backend
+## Internal structure
 
 To set the "grid" and interact with it, a Grid class has been created with two fields matrix and solving - solved and unsolved matrices, respectively. To create matrices, the QVector class from the Qt framework is used.
 	
@@ -17,7 +17,7 @@ In the constructor of the Grid class, the matrix field is formed by setting the 
 	
 Using the `resetToZero()` method, an unsolved matrix is formed: the matrix is copied to solving and elements of the "grid" are randomly selected, which are then "deleted", that is, these elements take a zero value. The number of selected cells depends on the selected difficulty level, which is passed as a parameter to the method. Thus, 51, 31 or 21 filled cells may remain.
 ____
-## Frontend
+## Appearance
 
 ### Main menu
 
