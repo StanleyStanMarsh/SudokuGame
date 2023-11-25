@@ -9,10 +9,7 @@ Sudoku puzzle game with numbers was created in the course of the work. The backe
 The application consists of [main menu](https://github.com/StanleyStanMarsh/SudokuGame/blob/main/app/windows/widget.h) and [game window](https://github.com/StanleyStanMarsh/SudokuGame/blob/main/app/windows/gamewindow.h).
 
 ____
-## Screenshots
-
-![Main menu](https://github.com/StanleyStanMarsh/SudokuGame/tree/main/screenshots_game/main_menu.png)
-![Game](https://github.com/StanleyStanMarsh/SudokuGame/tree/main/screenshots_game/game3.png)
+## [Screenshots](https://github.com/StanleyStanMarsh/SudokuGame/tree/main/screenshots_game/)
 
 ____
 ## Internal structure
