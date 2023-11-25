@@ -4,7 +4,7 @@ C++ was used to make this application. Qt framework was used to make GUI.
 
 ### [Documentation for code](https://stanleystanmarsh.github.io/SudokuGame/)
 
-Sudoku puzzle game with numbers was created in the course of the work. The backend of application is described in [app/grid](https://github.com/StanleyStanMarsh/SudokuGame/tree/main/app/grid) directory. The frontend is described in [app/windows](https://github.com/StanleyStanMarsh/SudokuGame/tree/main/app/windows) directory.
+Sudoku puzzle game with numbers was created in the course of the work. The internal structure of application is described in [app/grid](https://github.com/StanleyStanMarsh/SudokuGame/tree/main/app/grid) directory. The appearance is described in [app/windows](https://github.com/StanleyStanMarsh/SudokuGame/tree/main/app/windows) directory.
 
 The application consists of [main menu](https://github.com/StanleyStanMarsh/SudokuGame/blob/main/app/windows/widget.h) and [game window](https://github.com/StanleyStanMarsh/SudokuGame/blob/main/app/windows/gamewindow.h).
 
